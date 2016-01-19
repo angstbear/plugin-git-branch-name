@@ -1,7 +1,7 @@
 <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
 
-#### git_branch_name
-> A compatibility plugin for [Oh My Fish][omf-link].
+#### git-branch-name-compat
+> A compatibility plugin for [Oh My Fish][omf-link]. 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)
 [![Fish Shell Version](https://img.shields.io/badge/fish-v2.2.0-007EC7.svg?style=flat-square)](http://fishshell.com)
@@ -18,7 +18,7 @@ $ omf install git_branch_name
 
 ## Usage
 
-Should help [Oh My Fish][omf-link] function more smoothly in git repos, on systems that use an older version of git (before 'short' option was available for 'git symbolic-ref')
+Should help [Oh My Fish][omf-link] function more smoothly in git repos, on systems that use an older version of git (before 'short' option was available for 'git symbolic-ref').
 
 
 # License
