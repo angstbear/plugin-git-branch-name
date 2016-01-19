@@ -12,7 +12,7 @@
 ## Install
 
 ```fish
-$ omf install git_branch_name
+$ omf install git-branch-name-compat
 ```
 
 
