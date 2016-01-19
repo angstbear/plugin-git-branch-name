@@ -24,12 +24,12 @@ $ git_branch_name
 
 # License
 
-[MIT][mit] © [{{USER}}][author] et [al][contributors]
+[MIT][mit] © [angstbear][author] et [al][contributors]
 
 
 [mit]:            http://opensource.org/licenses/MIT
-[author]:         http://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/pkg-git_branch_name/graphs/contributors
+[author]:         http://github.com/angstbear
+[contributors]:   https://github.com/angstbear/pkg-git_branch_name/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
