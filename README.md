@@ -11,6 +11,14 @@
 
 ## Install
 
+This plugin isn't in the global registry, so it will need to be added to your local registry.
+
+```fish
+$ omf submit pkg/git-branch-name-compat https://github.com/angstbear/plugin-git-branch-name-compat
+```
+
+Once it's in your local registry, you can install it.
+
 ```fish
 $ omf install git-branch-name-compat
 ```
