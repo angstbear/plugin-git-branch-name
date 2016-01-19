@@ -18,9 +18,8 @@ $ omf install git_branch_name
 
 ## Usage
 
-```fish
-$ git_branch_name
-```
+Should help [Oh My Fish][omf-link] function more smoothly in git repos, on systems that use an older version of git (pre 'short' option)
+
 
 # License
 
