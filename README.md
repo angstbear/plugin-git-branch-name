@@ -18,7 +18,7 @@ $ omf install git_branch_name
 
 ## Usage
 
-Should help [Oh My Fish][omf-link] function more smoothly in git repos, on systems that use an older version of git (pre 'short' option)
+Should help [Oh My Fish][omf-link] function more smoothly in git repos, on systems that use an older version of git (before 'short' option was available for 'git symbolic-ref')
 
 
 # License
